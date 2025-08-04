@@ -64,5 +64,5 @@ fig.lines.append(plt.Line2D([0.5, 0.5], [0.07, 0.95], color='gray', linewidth=1)
 fig.lines.append(plt.Line2D([0.05, 0.95], [0.5, 0.5], color='gray', linewidth=1))  # horizontal
 
 # Save and show
-plt.savefig('Charts/Subplot.png', dpi=300)
+plt.savefig('Charts/Subplot2.png', dpi=300)
 plt.show()

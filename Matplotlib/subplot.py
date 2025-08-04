@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+plt.figure(figsize=(10, 8) )
 # Plot 1 (Bar Chart)
 y = [23, 45, 41, 13, 7]
 x = ['Item1', 'Item2', 'Item3', 'Item4', 'Item5']
